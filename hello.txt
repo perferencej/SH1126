@@ -1,4 +1,5 @@
 hello git! hello atguigu!
+hello git ! from stupid man
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
